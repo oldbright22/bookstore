@@ -1,0 +1,1 @@
+create table user_details (id uuid not null, publishedDate date, discountedPrice double, bookPrice double, bookAuthor varchar(150), bookName varchar(255), primary key (id))

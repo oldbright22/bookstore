@@ -1,0 +1,3 @@
+insert into user_details (id,bookName,bookAuthor,bookPrice,discountedPrice,publishedDate) values('a3b44734-6048-46e0-a257-ea448733c039','Title1','Author1',49.99,5.00,'1977-06-16');
+insert into user_details (id,bookName,bookAuthor,bookPrice,discountedPrice,publishedDate) values('773af3fb-bd0e-4fd9-b53a-7f54290650a9','Title2','Author2',69.99,10.00,'1987-06-16');
+insert into user_details (id,bookName,bookAuthor,bookPrice,discountedPrice,publishedDate) values('c666f598-9648-4a97-87ca-3555c3a27c46','Title3','Author3',899.99,150.00,'1997-06-16');
